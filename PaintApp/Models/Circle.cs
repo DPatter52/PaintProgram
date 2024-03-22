@@ -1,6 +1,5 @@
 using System.Drawing;
 
-
 namespace PaintingProgram.Models
 {
     public class Circle : Shape

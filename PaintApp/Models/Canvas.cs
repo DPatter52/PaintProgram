@@ -24,5 +24,8 @@ namespace PaintingProgram.Models
 
         // Retrieves the state of the canvas.
         public void Bitmap GetCanvasImage() => return drawingSurface;
+internal class DrawShape
+        {
+        }
     }
 }

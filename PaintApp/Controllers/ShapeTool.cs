@@ -7,10 +7,10 @@ namespace PaintingProgram.Tools
     public class ShapeTool
     {
         private DrawingManager drawingManager;
-        private BrushSetting brushSetting;
+        private BrushSettings brushSetting;
         private ColorPalette colorPalette;
 
-        public ShapeTool(DrawingManger drawingManger, BrushSetting brushSetting, ColorPalette colorPalette)
+        public ShapeTool(DrawingManager drawingManager, BrushSettings brushSetting, ColorPalette colorPalette)
         {
             this.drawingManager = drawingManager;
             this.brushSetting = brushSetting;

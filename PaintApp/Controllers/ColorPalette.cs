@@ -1,15 +1,9 @@
-using System;
-using System.Drawing;
-
 namespace PaintingProgram.Controllers
 {
     public class ColorPalette
     {
-        public Color SelectedColor { get; set; }
+        public System.Drawing.Color SelectedColor { get; set; }
 
-        public ColorPalette()
-        {
-            SelectedColor = Color: Black;
-        }
+        public ColorPalette() => SelectedColor = System.Drawing.Color.Black ;
     }
 }

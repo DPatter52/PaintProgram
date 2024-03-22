@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
-using PaintProgram.Controllers;
-using PaintProgram.Views;
+using PaintingProgram.Controllers;
+using PaintingProgram.Views;
 
 namespace PaintingProgram
 {
