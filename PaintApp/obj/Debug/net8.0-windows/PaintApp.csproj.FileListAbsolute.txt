@@ -1,4 +1,0 @@
-c:\Users\Devin Patterson\Desktop\Devin's Folder\Devin's School Stuff\Winter 2024\CSE 310\PaintProgram\PaintProgram\PaintApp\obj\Debug\net8.0-windows\MainWindow.g.cs
-c:\Users\Devin Patterson\Desktop\Devin's Folder\Devin's School Stuff\Winter 2024\CSE 310\PaintProgram\PaintProgram\PaintApp\obj\Debug\net8.0-windows\App.g.cs
-c:\Users\Devin Patterson\Desktop\Devin's Folder\Devin's School Stuff\Winter 2024\CSE 310\PaintProgram\PaintProgram\PaintApp\obj\Debug\net8.0-windows\PaintApp_MarkupCompile.cache
-c:\Users\Devin Patterson\Desktop\Devin's Folder\Devin's School Stuff\Winter 2024\CSE 310\PaintProgram\PaintProgram\PaintApp\obj\Debug\net8.0-windows\PaintApp_MarkupCompile.lref
